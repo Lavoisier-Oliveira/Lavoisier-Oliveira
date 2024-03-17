@@ -1,5 +1,11 @@
-## 🎓 Formação Acadêmica
-💻 Bacharelado em Ciência da Computação - 1/9<br>👨‍💻 Análise e Desenvolvimento de Sistemas - 3/5<br>⚡ Técnico em Eletrônica - 8/8
+### Saudações!
+Chamo-me Lavoisier e sou um grande estusiasta da tecnologia! Descobri que gosto de resolver problemas, já que sou fã de xadrez, cubo mágico e matemática.
+
+Estou cursando:<br>
+**💻 Bacharelado em Ciência da Computação - 1/9<br>👨‍💻 Análise e Desenvolvimento de Sistemas - 3/5<br>**
+
+Já sou:<br>
+**⚡ Técnico em Eletrônica - 8/8**
 <div>
 <a href = "mailto:contato@loc.lavoisier@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/lavoisier-oliveira/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
