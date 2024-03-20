@@ -2,7 +2,7 @@
 
 <div>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=1799&pause=800&vCenter=true&multiline=true&random=false&width=1200&height=120&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas" />
-</div><br><br>
+</div>
 
 <h3>🤹‍♂️Habilidades Técnicas:</h3>
 <div align="center">
